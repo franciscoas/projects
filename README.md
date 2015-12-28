@@ -1,2 +1,3 @@
 # projects
-Projects webpage
+
+Contiene el proyecto de la pagina web "t-shirt ++".
